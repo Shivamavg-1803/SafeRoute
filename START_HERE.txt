@@ -1,0 +1,23 @@
+SAFEROUTE — YOUR COMPLETE WEBSITE FOLDER
+
+1. Extract the ZIP file.
+2. Open the saferoute-site folder.
+3. Double-click index.html to try the website.
+
+TO PUBLISH ON GITHUB
+Create a public repository. Upload the CONTENTS of saferoute-site so that
+index.html is at the repository's top level. Do not upload the ZIP itself.
+
+Open repository Settings > Pages.
+Choose Deploy from a branch > main > /(root) > Save.
+GitHub will show your website link when publishing finishes.
+
+Full instructions: docs/GITHUB_PAGES.md
+Project explanation: README.md
+Machine learning: docs/MODEL_CARD.md
+
+This is a working academic prototype. Reports and locations are fictional.
+New demo submissions stay in the visitor's browser. A shared reporting system
+requires a backend. The ML lab estimates report counts, not personal safety.
+
+There is no installation, build command, API key, or paid dependency.
